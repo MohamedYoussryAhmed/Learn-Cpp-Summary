@@ -3,4 +3,4 @@ This will be a summarization of [Learncpp.com](https://www.learncpp.com/) websit
 
 
 ## Chapter 0
-- [0.1 - Introduction to these tutorials](./0.1%20—%20Introduction%20to%20these%20tutorials.md)
+- [0.1 - Introduction to these tutorials](./Chapter%200/0.1%20—%20Introduction%20to%20these%20tutorials.md)
